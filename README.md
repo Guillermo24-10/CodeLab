@@ -14,6 +14,20 @@ Se recomienda crear una organizacion que sea la propietaria del repositorio prin
 5. Elegir plan y llenar datos
 
 
-### Creación de Fork
+## Creación de Fork
 
 Para crear un fork debes iniciar sesion en GiHub y luego ingresar a la landing page del proyecto del que quiereas sacar tu fork
+
+
+## Como trabajar con las ramas
+
+Listar remotos
+
+`git remote -v`
+
+Agregar remotos
+`git remote add CodeLab https://github.com/NetCodeLabs/CodeLab.git`
+
+Eliminar remotos
+
+`git remote remove CodeLab`
